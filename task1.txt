@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 how are you
+=======
+hi
+>>>>>>> b262ec335335e339609228b0d2cd3b2c9af5c6d6
